@@ -16,7 +16,7 @@ Visit the follow URL to view the website: https://vuilfanie.github.io/CoffeeBoot
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-1. Install [Bootstrap](https://getbootstrap.com/)
+1. Install [Git](https://getbootstrap.com/)
 2. Clone the repository: `git clone https://github.com/vuilfanie/CoffeeBootstrap.git`
 3. Open the index.html file to view the website
 

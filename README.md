@@ -4,7 +4,7 @@ This is a Coffee website that was made with Bootstrap, a popular HTML, CSS, and 
 
 #Live URL
 
-Visit the follow URL to view the website: 
+Visit the follow URL to view the website: https://vuilfanie.github.io/CoffeeBootstrap/
 
 ## Features
 
